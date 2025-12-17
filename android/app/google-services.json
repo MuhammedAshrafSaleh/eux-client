@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534985466756",
+    "project_id": "eux-client",
+    "storage_bucket": "eux-client.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534985466756:android:3cd43d9139e2c9ee32f3d1",
+        "android_client_info": {
+          "package_name": "com.example.eux_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANn3P6UtXlYZ0cHV84Vziht6UKRptIUPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
