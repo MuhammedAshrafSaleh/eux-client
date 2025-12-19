@@ -4,7 +4,6 @@ import 'package:eux_client/resources/routes_manager.dart';
 import 'package:eux_client/resources/app_strings.dart';
 import 'package:eux_client/resources/app_values.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/svg.dart';
 
 class EmailSentPage extends StatelessWidget {
   const EmailSentPage({super.key});
@@ -18,7 +17,8 @@ class EmailSentPage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
-            SvgPicture.asset(AppAssets.emailSend),
+            Image(image: AssetImage(AppAssets.emailSend)),
+            const SizedBox(height: AppSize.s20),
             CustomAppButton(
               onPressed: () {
                 Navigator.pushReplacementNamed(context, Routes.signIn);

@@ -1,5 +1,6 @@
 import 'package:eux_client/resources/app_color.dart';
 import 'package:eux_client/resources/app_values.dart';
+import 'package:eux_client/resources/font_manager.dart';
 import 'package:flutter/material.dart';
 
 class CustomTextField extends StatelessWidget {
@@ -34,6 +35,9 @@ class CustomTextField extends StatelessWidget {
         obscureText: obscureText,
         validator: validator,
         onChanged: onChanged,
+        style: Theme.of(
+          context,
+        ).textTheme.bodyMedium?.copyWith(fontSize: FontSize.s14),
         decoration: InputDecoration(
           hintText: hintText,
           hintStyle: Theme.of(

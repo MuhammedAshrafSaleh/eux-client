@@ -37,9 +37,11 @@ class RouteGenerator {
       case Routes.ordersPage:
         return MaterialPageRoute(builder: (_) => const OrdersPage());
       case Routes.trackOrder:
-        return MaterialPageRoute(builder: (_) => const OrderTrackingPage());
+        return MaterialPageRoute(
+          builder: (_) => const OrderTrackingPage(billCode: ''),
+        );
       case Routes.addEidtOrder:
-        return MaterialPageRoute(builder: (_) => const AddEidtOrder());
+        return MaterialPageRoute(builder: (_) => const AddEditOrder());
       default:
         return unDefinedRoute();
     }

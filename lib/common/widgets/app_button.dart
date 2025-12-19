@@ -4,7 +4,7 @@ import 'package:eux_client/resources/font_manager.dart';
 import 'package:flutter/material.dart';
 
 class CustomAppButton extends StatelessWidget {
-  final VoidCallback onPressed;
+  final VoidCallback? onPressed;
   final String title;
   final Widget? content;
   final double? height;
