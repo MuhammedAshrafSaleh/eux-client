@@ -45,16 +45,17 @@ The app supports both **Arabic** and **English**, with a smooth and responsive U
 ## 📸 Screenshots
 
 <div align="center">
-
+ 
 | Home | Login | Sign Up |
 |:----:|:-----:|:-------:|
-| ![Home](screenshots/home.png) | ![Login](screenshots/login.png) | ![Sign Up](screenshots/sign_up.png) |
-
+| ![Home](screenshots/home.jpeg) | ![Login](screenshots/login.jpeg) | ![Sign Up](screenshots/sign_up.jpeg) |
+ 
 | Reset Password | Send Email | Tracking Details |
 |:--------------:|:----------:|:----------------:|
-| ![Reset Password](screenshots/reset_password.png) | ![Send Email](screenshots/send_email.png) | ![Tracking Details](screenshots/tracking_details.png) |
-
+| ![Reset Password](screenshots/reset_password.jpeg) | ![Send Email](screenshots/send_email.jpeg) | ![Tracking Details](screenshots/tracking_details.gif) |
+ 
 </div>
+ 
 
 ---
 
