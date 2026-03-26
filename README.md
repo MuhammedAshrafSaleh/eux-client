@@ -48,11 +48,11 @@ The app supports both **Arabic** and **English**, with a smooth and responsive U
  
 | Home | Login | Sign Up |
 |:----:|:-----:|:-------:|
-| ![Home](screenshots/home.jpeg) | ![Login](screenshots/login.jpeg) | ![Sign Up](screenshots/sign_up.jpeg) |
+| <img src="screenshots/home.jpeg" width="200"/> | <img src="screenshots/login.jpeg" width="200"/> | <img src="screenshots/sign_up.jpeg" width="200"/> |
  
 | Reset Password | Send Email | Tracking Details |
 |:--------------:|:----------:|:----------------:|
-| ![Reset Password](screenshots/reset_password.jpeg) | ![Send Email](screenshots/send_email.jpeg) | ![Tracking Details](screenshots/tracking_details.gif) |
+| <img src="screenshots/reset_password.jpeg" width="200"/> | <img src="screenshots/send_email.jpeg" width="200"/> | <img src="screenshots/tracking_details.gif" width="200"/> |
  
 </div>
  
