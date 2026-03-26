@@ -1,14 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=EUX%20Client&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Smart%20Shipping%20%26%20Tracking%20Mobile%20App&descAlignY=55&descSize=18" width="100%"/>
-
 <br/>
 
 [![Flutter](https://img.shields.io/badge/Flutter-Framework-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-Language-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
-[![Mobile](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
-[![Multi-Language](https://img.shields.io/badge/Multi--Language-AR%20%7C%20EN-10B981?style=for-the-badge&logo=googletranslate&logoColor=white)](#)
-
 <br/>
 
 > *"Fast. Reliable. Trackable — Your shipments, always in your hands."*
