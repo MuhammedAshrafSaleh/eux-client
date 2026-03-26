@@ -66,7 +66,7 @@ The app supports both **Arabic** and **English**, with a smooth and responsive U
 | **Flutter** | Cross-platform mobile framework |
 | **Dart** | Core programming language |
 | **REST API** | Backend communication |
-| **Flutter Localization** | Arabic & English support |
+| **Network Validation** | Internet connectivity checks before API calls |
 
 ---
 
@@ -80,31 +80,6 @@ The app supports both **Arabic** and **English**, with a smooth and responsive U
 | 🔑 **Reset Password** | Password recovery request |
 | 📧 **Send Email** | Email verification confirmation |
 | 📦 **Tracking Details** | Full shipment tracking info |
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Flutter SDK
-- Dart SDK
-- Android Studio / Xcode
-
-### Installation
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/MuhammedAshrafSaleh/eux-client.git
-cd eux-client
-
-# 2. Install dependencies
-flutter pub get
-
-# 3. Run the app
-flutter run
-```
-
 ---
 
 ## 👤 Developer
@@ -121,7 +96,7 @@ flutter run
 
 ## 📄 License
 
-This project is proprietary software developed for **EUX**. All rights reserved © 2024.
+This project is proprietary software developed for **EUX**. All rights reserved © 2025.
 
 ---
 
